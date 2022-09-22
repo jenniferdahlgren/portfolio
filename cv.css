@@ -17,7 +17,7 @@ header {
   background-size: 200% auto;
   color: #fff;
   background-clip: text;
-  text-emphasis-color: transparent;
+  text-fill-color: transparent;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: textclip 5s linear infinite;
@@ -35,6 +35,7 @@ header {
 
 /* Få till och redigera rätt bild till bakgrund denna är icke 100% färdig eller korrekt, men vill ha samma layout. Ej 100 på om den ska ta upp hela sidan 
 eller vara mindre så man ser innehållet direkt*/
+
 .bgimage {
     height: 100vh;
     width: 100vw;
